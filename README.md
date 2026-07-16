@@ -6,3 +6,8 @@ to load Ro-Xploit, just paste this in your favorite executor.
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrystalTeamRbx/Ro-Xploit/refs/heads/main/source/ro-xploit.lua"))()
 ```
+
+Oldest Loadstring (Ver. 6.0 for those who use on legacy clients)
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrystalTeamRbx/Ro-Xploit/refs/heads/main/source/archived/ro-xploit6dot0.lua"))()
+```lua
