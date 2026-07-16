@@ -1,4 +1,4 @@
-Ro-Xploit is an exploit with a variety of features and functions.
+Ro-Xploit is an exploit for ROBLOX with a variety of features and functions.
 
 to load Ro-Xploit, just paste this in your favorite executor.
 
